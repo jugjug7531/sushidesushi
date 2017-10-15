@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SushideSushiWeb.data.unityweb",
+"asmCodeUrl": "SushideSushiWeb.asm.code.unityweb",
+"asmMemoryUrl": "SushideSushiWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "SushideSushiWeb.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
